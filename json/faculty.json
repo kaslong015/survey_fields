@@ -1,0 +1,20 @@
+[
+
+	{
+		"id":"1",
+		"name":"Natural science",
+		"parent_id":"0",
+		"department":["Chemistry","Physics","Computer science","Geology","Science Lab Tech","Micro biology","Mathematics","Statistic","Plant Science","Zoology"]
+	},
+	{
+		"id":"2",
+		"name":"Engineering",
+		"parent_id":"1",
+		"department":["Civil Engineering","Mechanical Engineering","Electrical Engineering","Mining Engineering"]
+	}
+
+
+
+
+
+]
