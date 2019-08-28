@@ -11,6 +11,18 @@
 		"name":"Engineering",
 		"parent_id":"1",
 		"department":["Civil Engineering","Mechanical Engineering","Electrical Engineering","Mining Engineering"]
+	},
+	{
+		"id":"3",
+		"name":"Agriculture",
+		"parent_id":"2",
+		"department":["Agricultural Economics & Extension","Crop Production","Animal Production"]
+	},
+	{
+		"id":"4",
+		"name":"Arts",
+		"parent_id":"3",
+		"department":["English","Archaeology","Foreign Languages","History and International Studies","Linguistics and Nigerian Languages","Mass Communication","Music","Religious Studies","Theatre and Film Arts"]
 	}
 
 
