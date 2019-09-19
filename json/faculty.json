@@ -29,9 +29,45 @@
 		"name":"Environmental Science",
 		"parent_id":"4",
 		"department":["Architecture","Building","Estate Management","Fine and Applied Arts","Geography And Planning","Quantity Surveying","Urban And Regional Planning"]
+	},
+	{
+		"id":"6",
+		"name":"Law",
+		"parent_id":"5",
+		"department":["Commercial Law","International Law and Jurisprudence","Public Law","Private Law"]
+	},
+	{
+		"id":"7",
+		"name":"Management Science",
+		"parent_id":"6",
+		"department":["Accounting","Business Administration","Banking And Finance","Marketin","Actuarial Science","Insurance"]
+
+	},
+	{
+		"id":"8",
+		"name":"Medical Science",
+		"parent_id":"7",
+		"department":["Anatomy","Biochemistry ","Chemical Pathology","Dental Surgery","Medical Laboratory Sciences","Medicine","Nursing Sciences"]
+	},
+	{
+		"id":"9",
+		"name":"Pharmaceutical Science",
+		"parent_id":"8",
+		"department":["Clinical Pharmacy and Pharmacy Practice","Pharmacognosy","Pharmacology","Pharmaceutical Technology","Pharmaceutical Chemistry"]
+	},
+	{
+		"id":"10",
+		"name":"Social Sciences",
+		"parent_id":"9",
+		"department":["Economics","Political Science","Psychology","Sociology","Criminology & Security Studies"]
+
+	},
+	{
+		"id":"11",
+		"name":"Veterinary Medicine",
+		"parent_id":"10",
+		"department":["Veterinary Anatomy","Veterinary Anatomy","Physiology,Biochemistry & Pharmacology","Microbiology & Pathology","Parasitology & Entomology","Public Health & Preventive Medicine"]
 	}
-
-
 
 
 
